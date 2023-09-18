@@ -67,6 +67,7 @@ Mainly fill the text to suitable length."
 ;;; Engine
 
 (defvar gts-deepl-langs-mapping '(("en" . "EN")
+                                  ("ko" . "KO") ; Korean
                                   ("zh" . "ZH")
                                   ("de" . "DE") ; German
                                   ("fr" . "FR") ; French
